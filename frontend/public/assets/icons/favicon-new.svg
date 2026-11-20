@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Gelembung Sabun -->
+  <circle cx="21" cy="11" r="4" fill="#38BDF8"/>
+  <circle cx="22.2" cy="9.8" r="1.3" fill="#FFFFFF"/>
+  <circle cx="36" cy="7" r="5" fill="#0EA5E9"/>
+  <circle cx="37.5" cy="5.5" r="1.6" fill="#FFFFFF"/>
+  <circle cx="48" cy="13" r="3.5" fill="#38BDF8"/>
+
+  <!-- Badan Mesin Cuci -->
+  <rect x="8" y="15" width="48" height="46" rx="9" fill="#0284C7"/>
+
+  <!-- Panel Kontrol -->
+  <rect x="13" y="19" width="38" height="7" rx="2.5" fill="#0369A1"/>
+  <circle cx="18" cy="22.5" r="1.8" fill="#38BDF8"/>
+  <circle cx="24" cy="22.5" r="1.5" fill="#BAE6FD"/>
+  <circle cx="44" cy="22.5" r="2.2" fill="#FFFFFF"/>
+
+  <!-- Pintu Luar & Dalam -->
+  <circle cx="32" cy="43" r="15" fill="#0369A1"/>
+  <circle cx="32" cy="43" r="12" fill="#FFFFFF"/>
+  <circle cx="32" cy="43" r="9.5" fill="#E0F2FE"/>
+
+  <!-- Ombak Air Bersih -->
+  <path d="M25 44c2.5 3 6.5 3 9 0s6-1 7 1" stroke="#0284C7" stroke-width="2.2" stroke-linecap="round"/>
+  <circle cx="34" cy="39" r="1.5" fill="#0284C7"/>
+</svg>

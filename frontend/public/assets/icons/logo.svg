@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Gelembung Sabun di Atas -->
+  <circle cx="20" cy="11" r="3.5" fill="#38BDF8" fill-opacity="0.85"/>
+  <circle cx="21" cy="9.8" r="1.2" fill="#FFFFFF"/>
+  <circle cx="34" cy="7" r="4.5" fill="#0EA5E9" fill-opacity="0.8"/>
+  <circle cx="35.5" cy="5.5" r="1.5" fill="#FFFFFF"/>
+  <circle cx="46" cy="12" r="3" fill="#38BDF8" fill-opacity="0.85"/>
+  <circle cx="47" cy="11" r="1" fill="#FFFFFF"/>
+
+  <!-- Badan Mesin Cuci -->
+  <rect x="10" y="15" width="44" height="45" rx="8" fill="#0284C7"/>
+  <rect x="10" y="15" width="44" height="45" rx="8" stroke="#0369A1" stroke-width="1.5"/>
+
+  <!-- Panel Kontrol Mesin Cuci -->
+  <rect x="14" y="19" width="36" height="8" rx="3" fill="#0369A1"/>
+  <circle cx="19" cy="23" r="2" fill="#38BDF8"/>
+  <circle cx="25" cy="23" r="1.5" fill="#BAE6FD"/>
+  <circle cx="30" cy="23" r="1.5" fill="#BAE6FD"/>
+  <!-- Tombol Putar Knob -->
+  <circle cx="43" cy="23" r="2.5" fill="#FFFFFF"/>
+
+  <!-- Pintu Mesin Cuci (Bingkai Luar) -->
+  <circle cx="32" cy="42" r="14" fill="#0369A1"/>
+  <circle cx="32" cy="42" r="11.5" fill="#FFFFFF"/>
+
+  <!-- Kaca Jendela & Ombak Air Bersih -->
+  <circle cx="32" cy="42" r="9.5" fill="#E0F2FE"/>
+  <path d="M25 43c2.5 3 6.5 3 9 0s6.5-1 7.5 1" stroke="#0284C7" stroke-width="2" stroke-linecap="round"/>
+  <path d="M26 40c1.8-2 5-2 7 0" stroke="#38BDF8" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="34" cy="38" r="1.2" fill="#0284C7"/>
+  <circle cx="30" cy="45" r="1" fill="#38BDF8"/>
+
+  <!-- Gagang Pintu Mesin Cuci -->
+  <rect x="42.5" y="39.5" width="2" height="5" rx="1" fill="#BAE6FD"/>
+</svg>

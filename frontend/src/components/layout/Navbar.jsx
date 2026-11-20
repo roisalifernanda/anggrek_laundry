@@ -35,9 +35,11 @@ export function Navbar() {
           onClick={closeMenu}
           className="flex items-center gap-2.5 text-slate-900 group select-none"
         >
-          <div className="w-9 h-9 rounded-lg bg-sky-600 text-white flex items-center justify-center font-bold text-lg shadow-sm group-hover:bg-sky-700 transition-colors">
-            A
-          </div>
+          <img
+            src="/assets/icons/logo.svg"
+            alt="Logo Anggrek Laundry"
+            className="w-9 h-9 object-contain drop-shadow-2xs group-hover:scale-105 transition-transform"
+          />
           <div className="flex flex-col">
             <span className="font-bold text-lg sm:text-xl tracking-tight text-slate-900 leading-none">
               {kontakData.nama}

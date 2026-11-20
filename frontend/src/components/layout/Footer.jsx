@@ -21,9 +21,11 @@ export function Footer() {
           {/* Kolom 1: Profil Usaha */}
           <div className="space-y-4">
             <div className="flex items-center gap-2.5">
-              <div className="w-8 h-8 rounded-lg bg-sky-600 text-white flex items-center justify-center font-bold text-base">
-                A
-              </div>
+              <img
+                src="/assets/icons/logo.svg"
+                alt="Logo Anggrek Laundry"
+                className="w-8 h-8 object-contain"
+              />
               <span className="text-xl font-bold text-white tracking-tight">
                 {kontakData.nama}
               </span>
